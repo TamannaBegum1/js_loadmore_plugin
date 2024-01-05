@@ -1,1 +1,1 @@
-# js_loadmore_plugin
+# js_loadmore2_plugin
